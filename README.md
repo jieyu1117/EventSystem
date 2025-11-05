@@ -1,7 +1,3 @@
-##Info_Event.txt
-1) Before run the program must make sure the 'Info_Event.txt' created the following event details.
+##Event management system
 
-No   | Event Name                    | Description                                                                     | Date         | Start Time  -  End Time | Location                      | Status        
-===========================================================================================================================================================================================================
-1    | Taylor Swift: The Eras Tour   | A magical night with Taylor Swift performing her greatest hits                  | 25/9/2025    | 7pm - 9pm               | Bukit Jalil Stadium           | Active         
-2    | Imagine Dragons               | Rock concert with Imagine Dragons                                               | 20/10/2025   | 8pm - 10pm              | Arena Axiata                  | Pending		  
+We are going to use 'Visual Studio 2022' to run our project.
