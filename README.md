@@ -1,5 +1,3 @@
-## Event management system
-
 # Event System
 A C++ application to manage and organize events efficiently.
 
