@@ -1,3 +1,3 @@
-##Event management system
+## Event management system
 
-We are going to use 'Visual Studio 2022' to run our project.
+This is an C++ programming language project and we are going to use 'Visual Studio 2022' to run our project.
